@@ -4,3 +4,5 @@ function DNAtoRNA(dna) {
     
     return  rna.replace(/T/ig, "U");
   }
+
+  
